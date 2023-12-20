@@ -5,11 +5,3 @@ i have completed my hsc in 2017 .
 i have completed my bsc in 2023 cgpa 3.19
 Now i am trying to job IT company in Bangladesh.
 I am cool boy.
-<<<<<<< HEAD
-And i am hunadsome boy also.
-and i am a very straght forward man
-an i am a strong man.
-and i am a very straght forward man.
-and i am very lazy man.
-=======
->>>>>>> 3f717e7f3d12fb6aeb90ec55ad17a2f8ff4f906a
